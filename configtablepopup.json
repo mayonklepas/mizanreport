@@ -1,0 +1,28 @@
+{
+    "daftarklasifikasinama": [
+        {
+            "key": [
+                "id",
+                "ID",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "key": [
+                "kode",
+                "Kode",
+                "1",
+                "20"
+            ]
+        },
+        {
+            "key": [
+                "nama",
+                "Nama",
+                "1",
+                "30"
+            ]
+        }
+    ]
+}
